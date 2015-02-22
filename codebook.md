@@ -10,7 +10,7 @@ VARIABLE NUMBER. NAME OF THE VARIABLE: FULL DESCRIPTION OF THE VARIABLE
 
 There are 68 variables in total. 
 
-Variables 3 to 68 contains the mean of the values classified by both subject and activity. These variables are real numbers.
+Variables 3 to 68 contains the average of the original features classified by both subject and activity. These variables are real numbers.
 
 ##LIST OF VARIABLES
 
