@@ -21,7 +21,7 @@ VARIABLE NUMBER. NAME OF THE VARIABLE IN THE DATA FILE: FULL DESCRIPTION OF THE 
               There are six activities:
               - Walking
               - Walking Upstairs
-              - WWalking Downstairs
+              - Walking Downstairs
               - Sitting
               - Standing
               - Laying
