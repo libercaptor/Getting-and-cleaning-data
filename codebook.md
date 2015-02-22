@@ -4,14 +4,13 @@
 
 This is the codebook for the course project of the Coursera Course "Getting and Cleaning Data".
 
-This codebook states the following information
-
-VARIABLE NUMBER. NAME OF THE VARIABLE: FULL DESCRIPTION OF THE VARIABLE
-
 Variables 3 to 68 contains the average of the original features for each combination of both subject and activity (180 combinations in total). These variables are real numbers.
 
 There are 68 variables in total. There are 180 rows, one for each combination of subject and activity.
 
+This codebook states the following information
+
+VARIABLE NUMBER. NAME OF THE VARIABLE IN THE DATA FILE: FULL DESCRIPTION OF THE VARIABLE
 
 ##LIST OF VARIABLES
 
