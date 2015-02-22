@@ -17,14 +17,13 @@ VARIABLE NUMBER. NAME OF THE VARIABLE IN THE DATA FILE: FULL DESCRIPTION OF THE 
  1. Subject: An identifier of the subject who carried out the experiment. 
              Values: Integer in the interval 1 to 30 (both inclusive)
              
- 2. Activity: The activity performed by the subject. 
-              There are six activities:
-              * Walking
-              * Walking Upstairs
-              * Walking Downstairs
-              * Sitting
-              * Standing
-              * Laying
+ 2. Activity: The activity performed by the subject. There are six activities:
+ * Walking
+ * Walking Upstairs
+ * Walking Downstairs
+ * Sitting
+ * Standing
+ * Laying
               
  3. TimeBodyAccMeanAxisX: Mean of body acceleration in the X axis in the time domain.
  
