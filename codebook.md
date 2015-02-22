@@ -19,12 +19,12 @@ VARIABLE NUMBER. NAME OF THE VARIABLE IN THE DATA FILE: FULL DESCRIPTION OF THE 
              
  2. Activity: The activity performed by the subject. 
               There are six activities:
-              - Walking
-              - Walking Upstairs
-              - Walking Downstairs
-              - Sitting
-              - Standing
-              - Laying
+              * Walking
+              * Walking Upstairs
+              * Walking Downstairs
+              * Sitting
+              * Standing
+              * Laying
               
  3. TimeBodyAccMeanAxisX: Mean of body acceleration in the X axis in the time domain.
  
